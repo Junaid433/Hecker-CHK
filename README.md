@@ -34,3 +34,5 @@ You will find some codes like this if ($userId == '766109755'){
 
 You need to change $userId with your own id, however bot will still work but you will be missing admin some functions.
 
+If you need any help, pm me on telegram. 
+My Telegram - @fakehecker
