@@ -27,7 +27,7 @@ sendMessage($chatId, "<b>HECKER CHK ⚡️ - Status - $sat%0A━━━━━━�
    
      if ((strpos($message, "") === 0)||(strpos($message, "") === 0)||(strpos($message, "") === 0)||(strpos($message, "") === 0)||(strpos($message, "") === 0)||(strpos($message, "") === 0)||(strpos($message, "/cmds") === 0)){
      sendaction($chatId, typing);
-sendMessage($chatId, "<b>HECKER CHK ⚡️ - Status - $sat%0A[ϟ] TOTAL CHECKER COMMANDS - 6%0A━━━━━━━━━━━━━%0A[ϟ] Stripe Sk Charge - /ch%0A[ϟ] Stripe Charge €4 - /st [Site Based]%0A[ϟ] Stripe Killer $750 [Site Based] - /sch%0A[ϟ] Stripe Auth [Site Based] - /au%0A[ϟ] Mass Stripe Sk Charge - /mch%0A[ϟ] Sk Checker - /sk%0A━━━━━━━━━━━━━%0AHit /tools for list of available tools.</b>", $message_id);
+sendMessage($chatId, "<b>HECKER CHK ⚡️ - Status - $sat%0A[ϟ] TOTAL CHECKER COMMANDS - 6%0A━━━━━━━━━━━━━%0A[ϟ] Stripe Sk Charge - /ch%0A[ϟ] Stripe Charge €4 - /spp [Site Based]%0A[ϟ] Stripe Killer $750 [Site Based] - /sch%0A[ϟ] Stripe Auth [Site Based] - /au%0A[ϟ] Mass Stripe Sk Charge - /mch%0A[ϟ] Sk Checker - /sk%0A━━━━━━━━━━━━━%0AHit /tools for list of available tools.</b>", $message_id);
 
 }
 
