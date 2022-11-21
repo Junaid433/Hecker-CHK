@@ -16,6 +16,8 @@ Bug Bin Detection Via TXT File.
 
 Premium and free user system without any my sql database. [ via txt file ]
 
+Stores Results in /tmp folder
+
 # SETUP 
 
 Change $botToken with your api token on modules/global.php
