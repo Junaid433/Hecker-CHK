@@ -29,7 +29,7 @@ function multiexplode($delimiters, $string)
 }
 
 function editMessage ($chatId, $message,$message_id){
-$url = "https://api.telegram.org/bot5449842563:AAGgqf0HuPFEuNjIOB_zfUyyk4Wn2gARTVQ/editMessageText?chat_id=".$chatId."&message_id=".$message_id."&text=".$message."&parse_mode=HTML";
+$url = "https://api.telegram.org/bot$botToken/editMessageText?chat_id=".$chatId."&message_id=".$message_id."&text=".$message."&parse_mode=HTML";
 $result = file_get_contents($url);      
 echo $result.'<hr>';
 }
